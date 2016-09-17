@@ -16,6 +16,17 @@
  *   along with this program; if not, write to the                         *
  *   Free Software Foundation, Inc.,                                       *
  *   59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.             *
+ *   ***************************************************************************
+ *   To contact the author, please write to:                               *
+ *   Ruben Carlo Benante                                                   *
+ *   Email: rcb@beco.cc                                                    *
+ *   Webpage: http://www.beco.cc                                           *
+ *   Phone: +55 (81) 3184-7555                                             *
+ *                                                                         *
+ *   Marina Collier de Albuquerque Melo                                    *
+ *   Email: marinacollieramelo@gmail.com                                   *
+ *   Webpage: www.upe.com                                                  *
+ *   Phone: +55 (81) 99492-3617  
  ***************************************************************************/
 
 /* Template para programa basico Allegro
@@ -59,9 +70,9 @@ int main(void)
         printf("Could not create buffer!\n");
         exit(EXIT_FAILURE);
     }
-    
+
     /* Seu codigo aqui */
-    
+
     save_bitmap(IMAGENAME, buff, pal);
     destroy_bitmap(buff);
     allegro_exit();

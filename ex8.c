@@ -33,6 +33,11 @@
  *   Webpage: www.upe.com                                                  *
  *   Phone: +55 (81) 98696-1168                                            *
  *                                                                         *
+ *   Milena Maria Costa Pininga                                            *
+ *   Email: milena.pininga@gmail.com                                       *
+ *   Webpage: www.upe.com                                                  *
+ *   Phone: +55 (81) 99834-5265                                            *
+ *                                                                         *
  *   Ricardo Henrique Simplicio Dimas                                      *
  *   Email: rhenrique.dimas@gmail.com                                      *
  *   Webpage: www.upe.br                                                   *

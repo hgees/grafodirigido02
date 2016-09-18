@@ -32,6 +32,11 @@
  *   Email: hhericles@hotmail.com                                          *
  *   Webpage: www.upe.com                                                  *
  *   Phone: +55 (81) 98696-1168                                            *
+ *                                                                         *
+ *   Ricardo Henrique Simplicio Dimas                                      *
+ *   Email: rhenrique.dimas@gmail.com                                      *
+ *   Webpage: www.upe.br                                                   *
+ *   Phone: +55 (81) 9 9730-4919                                           *
  ***************************************************************************/
 
 /* Template para programa basico Allegro

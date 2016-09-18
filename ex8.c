@@ -41,7 +41,12 @@
  *   Ricardo Henrique Simplicio Dimas                                      *
  *   Email: rhenrique.dimas@gmail.com                                      *
  *   Webpage: www.upe.br                                                   *
- *   Phone: +55 (81) 9 9730-4919                                           *
+ *   Phone: +55 (81) 99730-4919                                            *
+ *                                                                         *
+ *   Dennis Miller Fidelis da Silva                                        *
+ *   Email: dmiller.f10@gmail.com                                          *
+ *   Webpage: www.upe.br                                                   *
+ *   Phone: +55 (81) 98803-0404                                            *
  ***************************************************************************/
 
 /* Template para programa basico Allegro

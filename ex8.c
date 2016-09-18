@@ -16,7 +16,7 @@
  *   along with this program; if not, write to the                         *
  *   Free Software Foundation, Inc.,                                       *
  *   59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.             *
- *   ***************************************************************************
+ *   ********************************************************************* *
  *   To contact the author, please write to:                               *
  *   Ruben Carlo Benante                                                   *
  *   Email: rcb@beco.cc                                                    *
@@ -26,7 +26,12 @@
  *   Marina Collier de Albuquerque Melo                                    *
  *   Email: marinacollieramelo@gmail.com                                   *
  *   Webpage: www.upe.com                                                  *
- *   Phone: +55 (81) 99492-3617  
+ *   Phone: +55 (81) 99492-3617                                            *
+ *                                                                         *
+ *   Hericles Gabriel Escoteiro e Silva                                    *
+ *   Email: hhericles@hotmail.com                                          *
+ *   Webpage: www.upe.com                                                  *
+ *   Phone: +55 (81) 98696-1168                                            *
  ***************************************************************************/
 
 /* Template para programa basico Allegro

@@ -83,7 +83,8 @@ int main(void)
     circlefill(buff,CIRCULOMAIOR,CIRCULOMAIOR+40, 10, CORAZUL);/*desenhar e pintar circulo da direita*/
     arc(buff,CIRCULOMAIOR,CIRCULOMAIOR, itofix(-120), itofix(180), 40, CORVERMELHO);
     triangle(buff, 60, 110, 55, 120, 65, 120, CORVERMELHO);
-    rect(buff, 0, 0, 320, 240, CORBRANCO);
+    //rect(buff, 0, 0, 320, 240, CORBRANCO);
+    
     save_bitmap(IMAGENAME, buff, pal);
     destroy_bitmap(buff);
     allegro_exit();

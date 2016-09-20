@@ -43,6 +43,11 @@
  *   Webpage: www.upe.br                                                   *
  *   Phone: +55 (81) 99730-4919                                            *
  *                                                                         *
+ *   Priscila de Sousa Silva                                               *
+ *   Email: cila_007@hotmail.com                                           *
+ *   Webpag: www.upe.br                                                    *
+ *   Phone: +55 (81) 99517-7189                                            *
+ *                                                                         *
  *   Dennis Miller Fidelis da Silva                                        *
  *   Email: dmiller.f10@gmail.com                                          *
  *   Webpage: www.upe.br                                                   *

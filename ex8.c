@@ -51,7 +51,12 @@
  *   Dennis Miller Fidelis da Silva                                        *
  *   Email: dmiller.f10@gmail.com                                          *
  *   Webpage: www.upe.br                                                   *
- *   Phone: +55 (81) 98803-0404                                            *
+ *   Phone: +55 (81) 98803-0404  
+ *
+ *   Thiago Rodrigo de Oliveira Queiroz 
+ *   Email :  thiago_queiroz94@outlook.com.br
+ *   Webpage : www.upe.br
+ *   Phone : +55 (81) 9 7902-2171
  ***************************************************************************/
 
 /* Template para programa basico Allegro

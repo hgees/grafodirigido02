@@ -65,7 +65,7 @@ int main(void)
     get_palette(pal);
 
     // Create a buffer for smooth animation.
-    buff = create_bitmap(320,240);
+    buff = create_bitmap(640,480);
     if(buff == NULL)
     {
         printf("Could not create buffer!\n");

@@ -23,6 +23,12 @@
  *    Fernando Angelim Aragao <bituco99@gmail.com>                          *
  *    Webpage: http://www.upe.br                                            *
  *    Phone: +55 (81) 99710-7784                                            *
+ *                                                                          *
+ *    Milena Maria Costa Pininga <milena.pininga@gmail.com                  *
+ *    Webpage: http://www.upe.br                                            *
+ *    Phone: +55 (81) 99834-5265                                            *
+ *                                                                          *
+ *                                                                          *
  * ************************************************************************ *
  * 
  */

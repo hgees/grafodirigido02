@@ -45,7 +45,7 @@
 #define CORVERDE (makecol(0, 255, 0))
 #define CORAMARELO (makecol(255,255,100))
 #define CORVERMELHO (makecol(255, 0, 0))
-#define CIRCULO 100
+#define CIRCULO 10
 
 #define IMAGENAME "ex9.bmp" /* nome do arquivo de imagem */
 
@@ -100,6 +100,10 @@ int main(int argc, char *argv[])
 
     // printf("Existem %d linhas no arquivo\n", num); // descomente para testar o numero de linhas
     fclose(file);
+    
+    for(i=0;i<10;i++)
+        for(j=0;j<2;j++)
+            circle(buff,60*(circulos[i][j]-'a'+1),240,CIRCULO,CORVERMELHO);
 
     save_bitmap(IMAGENAME, buff, pal);
     destroy_bitmap(buff);

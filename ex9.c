@@ -36,7 +36,7 @@
  * 
  */
 
-
+/*Para executar utilizar  $./ex9.x entrada.txt*/
 
 #define CORBRANCO (makecol(255,255,255))
 #define CORPRETO 1
@@ -47,7 +47,7 @@
 #define CORVERMELHO (makecol(255, 0, 0))
 #define CIRCULO 100
 
-#define IMAGENAME "teste.bmp" /* nome do arquivo de imagem */
+#define IMAGENAME "ex9.bmp" /* nome do arquivo de imagem */
 
 #include <stdio.h>
 #include <allegro.h>

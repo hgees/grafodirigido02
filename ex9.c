@@ -53,7 +53,7 @@
 #include <stdio.h>
 #include <allegro.h>
 
-int main(void)
+int main(int argc, char *argv[])
 {
     BITMAP *buff;
     PALETTE pal;
@@ -73,7 +73,25 @@ int main(void)
     }
 
     /* Seu codigo aqui */
-    
+    int num;
+    FILE *file;
+
+    file = fopen(argv[1], "r");
+    if(argc != 2) 
+    {
+        printf("ERRO. Falha ao abrir o arquivo\n");
+        return 0;
+    } 
+    else 
+    {
+        while((argc = fgetc(file)) != EOF)
+            if(argc == '\n') 
+                num++;
+    }
+
+    // printf("Existem %d linhas no arquivo\n", num); // descomente para testar o numero de linhas
+    fclose(file);
+
     save_bitmap(IMAGENAME, buff, pal);
     destroy_bitmap(buff);
     allegro_exit();

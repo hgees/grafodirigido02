@@ -45,8 +45,7 @@
 #define CORVERDE (makecol(0, 255, 0))
 #define CORAMARELO (makecol(255,255,100))
 #define CORVERMELHO (makecol(255, 0, 0))
-#define CIRCULOMAIOR 100
-#define CIRCULOMENOR 40
+#define CIRCULO 100
 
 #define IMAGENAME "teste.bmp" /* nome do arquivo de imagem */
 

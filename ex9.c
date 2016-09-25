@@ -73,7 +73,7 @@ int main(int argc, char *argv[])
 
     /* Seu codigo aqui */
     int i=0,j=0;
-    char letra,circulos[10][2];
+    char letra,circulos[2][10];
     FILE *file;
 
     file = fopen(argv[1], "r");

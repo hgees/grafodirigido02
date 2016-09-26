@@ -108,7 +108,11 @@ int main(int argc, char *argv[])
     for(i = 0; i < 10; i++)
         for(j = 1; j < 10; j++)
             arc(buff, (60*(circulos[i][j] - 'a')) + 30, 255, itofix(32), itofix(96), 40, CORAZUL);
-
+          
+    for(i = 0; i < 10; i++)
+        for(j = 1; j < 10; j++)
+            triangle(buff, 60*(circulos[i][j] - 'a'), 230, (60*(circulos[i][j] - 'a') + 4) , 225, (60*(circulos[i][j] - 'a') - 4) , 225, CORVERDE);
+       
     save_bitmap(IMAGENAME, buff, pal);
     destroy_bitmap(buff);
     allegro_exit();

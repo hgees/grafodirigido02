@@ -32,6 +32,11 @@
  *    Webpage: http://www.upe.br                                            *
  *    Phone: +55 (81) 99730-4919                                            *
  *                                                                          *
+ *    Marina Collier de Albuquerque Melo                                    *
+ *    Email: marinacollieramelo@gmail.com                                   *
+ *    Webpage: www.upe.com                                                  *
+ *    Phone: +55 (81) 99492-3617                                            *
+ *                                                                          *
  * ************************************************************************ *
  * 
  */

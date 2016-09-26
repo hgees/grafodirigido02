@@ -72,8 +72,8 @@ int main(int argc, char *argv[])
     }
 
     /* Seu codigo aqui */
-    int i=0,j=0;
-    char letra,circulos[2][10];
+    int i = 0, j = 0;
+    char letra, circulos[2][10];
     FILE *file;
 
     file = fopen(argv[1], "r");
@@ -87,13 +87,13 @@ int main(int argc, char *argv[])
         while((letra = fgetc(file)) != EOF)
             if(letra != '\n' && letra != ' ')
             {
-                circulos[i][j]=letra;
-                if(j==0)
-                    j=1;
+                circulos[i][j] = letra;
+                if(j == 0)
+                    j = 1;
                 else
                 {
                     i++;
-                    j=0;
+                    j = 0;
                 }
             }
     }
@@ -101,16 +101,20 @@ int main(int argc, char *argv[])
     // printf("Existem %d linhas no arquivo\n", num); // descomente para testar o numero de linhas
     fclose(file);
     
-    for(i=0;i<10;i++)
-        for(j=0;j<2;j++)
-            circle(buff,60*(circulos[i][j]-'a'+1),240,CIRCULO,CORVERMELHO);
+    for(i = 0; i < 10; i++)
+        for(j = 0; j < 2; j++)
+            circle(buff, 60*(circulos[i][j] - 'a' + 1), 240, CIRCULO, CORVERMELHO);
+
+    for(i = 0; i < 10; i++)
+        for(j = 1; j < 10; j++)
+            arc(buff, (60*(circulos[i][j] - 'a')) + 30, 255, itofix(32), itofix(96), 40, CORAZUL);
 
     save_bitmap(IMAGENAME, buff, pal);
     destroy_bitmap(buff);
     allegro_exit();
 
-    for(i=0;i<10;i++)
-        printf("%s\n",circulos[i]);
+    for(i = 0; i < 10; i++)
+        printf("%s\n", circulos[i]);
     printf("Imagem %s salva com sucesso!\n", IMAGENAME);
 
     return EXIT_SUCCESS;

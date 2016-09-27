@@ -86,3 +86,8 @@ void  main ()
 
     fclose(lcp); /*fechamento de arquivo*/
 }
+
+int pesquisadecaminhos(int *k)
+{
+    int numero1, numero2, x, y;
+}

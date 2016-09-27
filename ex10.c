@@ -50,14 +50,18 @@ void  main ()
     k++;
 
     scanf("%d",&opt);
-    
+
     switch(opt)
     {
         case 1:
             printf("Procura por caminho\n");
             pesquisadecaminhos();/*codigo para procura de caminho*/
             break;
+        case 2:
+            printf("Procura por circuito\n");
+            /*codigo para procurar de circuito*/
+            break;
     }
-    
+
     fclose(lcp); /*fechamento de arquivo*/
 }

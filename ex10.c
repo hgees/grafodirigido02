@@ -90,4 +90,7 @@ void  main ()
 int pesquisadecaminhos(int *k)
 {
     int numero1, numero2, x, y;
+
+    printf("Digite o possivel caminho\n");
+    scanf("%d",&numero1);
 }

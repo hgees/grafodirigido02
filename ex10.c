@@ -32,4 +32,8 @@
 
 void  main ()
 {
+    FILE *ldc; 
+    ldc = fopen("listadecaminhos.txt","r");
 }
+
+

@@ -32,9 +32,10 @@
 
 void  main ()
 {
-    FILE *ldc; 
-    ldc = fopen("listadecaminhos.txt","r");
-    fclose(lcp);
+    FILE *ldc;/*ponteiro para o arquivo*/
+        /*ldc=lista de caminhos*/
+    ldc = fopen("listadecaminhos.txt","r"); /*abertura de arquico*/
+    fclose(lcp); /*fechamento de arquivo*/
 }
 
 

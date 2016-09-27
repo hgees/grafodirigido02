@@ -57,6 +57,9 @@ void  main ()
         exit(1);
     }
 
+    printf("Bem vindo o teste de caminhos e circuitos");
+    /*printf("Para finalizar aperte 'x'");*/
+
     while(fscanf(listadecaminhos,"%c %c\n",&lista[k][0], &lista[k][1]) !=EOF);
     k++;
 
@@ -72,6 +75,13 @@ void  main ()
             printf("Procura por circuito\n");
             /*codigo para procurar de circuito*/
             break;
+        case 3:
+            printf("Ate a proxima!");
+            exit(1);
+            break;
+        default:
+            printf("ERRO.\n");
+            printf("Voce digitou algo fora das opcoes determinadas\n");
     }
 
     fclose(lcp); /*fechamento de arquivo*/

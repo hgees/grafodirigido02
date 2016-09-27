@@ -32,10 +32,22 @@
 
 void  main ()
 {
+    int k=0;
+
+
     FILE *ldc;/*ponteiro para o arquivo*/
-        /*ldc=lista de caminhos*/
+    /*ldc=lista de caminhos*/
     ldc = fopen("listadecaminhos.txt","r"); /*abertura de arquico*/
+
+    if((ldc = fopen("listadecaminhos.txt","r"))==NULL)
+    {
+        printf("Arquivo não pode ser executado");
+        exit(1);
+    }
+
     fclose(lcp); /*fechamento de arquivo*/
+
+
 }
 
 

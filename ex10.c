@@ -47,12 +47,17 @@ void  main ()
     }
 
     while(fscanf(listadecaminhos,"%c %c\n",&lista[k][0], &lista[k][1]) !=EOF);
-        k++;
+    k++;
 
     scanf("%d",&opt);
+    
+    switch(opt)
+    {
+        case 1:
+            printf("Procura por caminho\n");
+            pesquisadecaminhos();/*codigo para procura de caminho*/
+            break;
+    }
+    
     fclose(lcp); /*fechamento de arquivo*/
-
-
 }
-
-

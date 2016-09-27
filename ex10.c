@@ -45,6 +45,9 @@ void  main ()
         exit(1);
     }
 
+    while(fscanf(listadecaminhos,"%c %c\n",&lista[k][0], &lista[k][1]) !=EOF);
+        k++;
+
     fclose(lcp); /*fechamento de arquivo*/
 
 

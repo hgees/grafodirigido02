@@ -20,9 +20,14 @@
  *    59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.             *
  *                                                                          *
  *    To contact the author, please write to:                               *
- *    Marina Collier de Albuquerque Melo <marinacollieramelo@gmail.com      *
+ *    Marina Collier de Albuquerque Melo <marinacollieramelo@gmail.com>     *
  *    Webpage: http://www.poli.com                                          *
  *    Phone: 55 81 994923617                                                * 
+ *                                                                          *
+ *    To contact the author, please write to:                               *
+ *    Priscila de Sousa Silva <cila_007@hotmail.com>                        *
+ *    Webpage: http://www.poli.com                                          *
+ *    Phone: 55 81 995177189                                                *
  *                                                                          *
  *    To contact the author, please write to:                               *
  *    Thiago Rodrigo de Oliveira Queiroz <thiago_queiroz94@outlook.com.br>  *

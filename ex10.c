@@ -22,7 +22,13 @@
  *    To contact the author, please write to:                               *
  *    Marina Collier de Albuquerque Melo <marinacollieramelo@gmail.com      *
  *    Webpage: http://www.poli.com                                          *
- *    Phone: 55 81 994923617                                                *
+ *    Phone: 55 81 994923617                                                * 
+ *                                                                          *
+ *    To contact the author, please write to:                               *
+ *    Thiago Rodrigo de Oliveira Queiroz <thiago_queiroz94@outlook.com.br>  *
+ *    Webpage: http://ww.poli.com                                           *
+ *    Phone: 55 81 9 7902-2171                                              * 
+ *                                                                          *
  * ************************************************************************ *
  * 
  */

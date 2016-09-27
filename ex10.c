@@ -32,7 +32,8 @@
 
 void  main ()
 {
-    int k=0;
+    int opt,
+        k=0;
 
 
     FILE *ldc;/*ponteiro para o arquivo*/
@@ -48,6 +49,7 @@ void  main ()
     while(fscanf(listadecaminhos,"%c %c\n",&lista[k][0], &lista[k][1]) !=EOF);
         k++;
 
+    scanf("%d",&opt);
     fclose(lcp); /*fechamento de arquivo*/
 
 

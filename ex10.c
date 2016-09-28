@@ -93,4 +93,18 @@ int pesquisadecaminhos(int *k)
 
     printf("Digite o possivel caminho\n");
     scanf("%d",&numero1);
+    scanf("%d",&numero2);
+
+    for(x=0;x<2;x++)
+    {
+        if(lista[x][0]=numero1)
+        {
+            for(y=0;y<k;y++)
+            {
+                if(lista[y][1]=numero2)
+                    printf("Existe um caminho de %d para %d",&numero1,&numero2);
+            }
+        }
+    }
+
 }

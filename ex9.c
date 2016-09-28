@@ -37,6 +37,10 @@
  *    Webpage: www.upe.com                                                  *
  *    Phone: +55 (81) 99492-3617                                            *
  *                                                                          *
+ *    Dennis Miller Fidelis da Silva <dmiller.f10@gmail.com                 *
+ *    Webpage: http://www.upe.br                                            *
+ *    Phone: +55 (81) 98803-0404                                            *
+ *                                                                          *
  * ************************************************************************ *
  * 
  */

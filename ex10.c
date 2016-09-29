@@ -39,6 +39,9 @@
  *    Webpage: http://www.poli.com                                          *
  *    Phone: 55 81 98803-0404                                               * 
  *                                                                          *
+ *    Hericles Gabriel Escoteiro e Silva                                    *
+ *    Webpage: http://www.upr.br                                            *
+ *    Phone: 55 81 98696-1168                                               *
  * ************************************************************************ *
  * 
  */

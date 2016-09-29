@@ -40,7 +40,14 @@
  *    Dennis Miller Fidelis da Silva <dmiller.f10@gmail.com                 *
  *    Webpage: http://www.upe.br                                            *
  *    Phone: +55 (81) 98803-0404                                            *
- *                                                                          *
+ *      
+*   
+ *    Hericles Gabriel Escoteiro e Silva <hhericles@hotmail.com>
+*
+ *    Webpage: http://www.upe.br
+*
+ *    Phone: +55 (81) 986961168
+*
  * ************************************************************************ *
  * 
  */
